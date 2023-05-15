@@ -24,7 +24,7 @@
     <ClCompile Include="chainfunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="destruktor.cpp">
+    <ClCompile Include="dekstrutor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

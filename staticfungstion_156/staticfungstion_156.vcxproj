@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chainfunction.cpp" />
-    <ClCompile Include="destruktor.cpp" />
+    <ClCompile Include="dekstrutor.cpp" />
     <ClCompile Include="staticfunction1.cpp" />
     <ClCompile Include="mbrstatikfunc.cpp" />
   </ItemGroup>
