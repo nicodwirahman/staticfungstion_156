@@ -27,5 +27,8 @@
     <ClCompile Include="dekstrutor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="konstruktor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

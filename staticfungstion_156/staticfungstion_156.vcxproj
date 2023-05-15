@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="chainfunction.cpp" />
     <ClCompile Include="dekstrutor.cpp" />
+    <ClCompile Include="konstruktor.cpp" />
     <ClCompile Include="staticfunction1.cpp" />
     <ClCompile Include="mbrstatikfunc.cpp" />
   </ItemGroup>
