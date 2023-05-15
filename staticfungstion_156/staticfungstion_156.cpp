@@ -12,7 +12,7 @@ public:
 	void setID();
 	void printAll();
 
-	static void setNIim(int pNim) { nim = pNim; }
+	static void setNim(int pNim) { nim = pNim; }
 	static int getNim() { return nim; }
 	mahasiswa(string pnama) :nama(pnama) { setID(); }		
 };
@@ -30,3 +30,21 @@ void mahasiswa::printAll() {
 }
 
 
+int main() {
+	mahasiswa mhs1("sri dadi");
+	mahasiswa mhs2("sri dadi");
+	mahasiswa::setNim(9);
+	mahasiswa mhs3("sri dadi");
+	mahasiswa mhs4("sri dadi");
+
+	mhs1.printAll();
+	mhs2.printAll();
+	mhs3.printAll();
+	mhs4.printAll();
+
+	cout << "akses dari luar object = " << mahasiswa::getNim() << endl;
+	system("pause");
+
+	return 0;
+
+}
