@@ -14,8 +14,9 @@ public:
 
 	static void setNIim(int pNim) { nim = pNim; }
 	static int getNim() { return nim; }
-	mahasiswa(string pnama) :nama(pnama) { setID(); }
-		
+	mahasiswa(string pnama) :nama(pnama) { setID(); }		
 };
+
+int mahasiswa :: nim = 0;
 
 
