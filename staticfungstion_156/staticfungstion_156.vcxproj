@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="staticfungstion_156.cpp" />
+    <ClCompile Include="staticfunction1.cpp" />
+    <ClCompile Include="mbrstatikfunc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
