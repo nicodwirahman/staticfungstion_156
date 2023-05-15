@@ -5,6 +5,11 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfungstion_156", "staticfungstion_156\staticfungstion_156.vcxproj", "{79F1E1F2-A02E-4F00-9CCE-1A2726418551}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6969C2A4-0897-4DB3-A7B5-2F1878DCD5F7}"
+	ProjectSection(SolutionItems) = preProject
+		chainfuction = chainfuction
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
